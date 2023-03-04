@@ -1,5 +1,5 @@
 # Criminal-Database-System
-Problem Statement:
+
 In this Project we create a database of Criminal record 
 according to their Names, Crime, Offense date, 
 Disposed Date and Confinement type. Now Write a 
